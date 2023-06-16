@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
-//In this case I use linked lists
 
 typedef struct {
     int x, y, dist;
